@@ -3,6 +3,8 @@ public class Arrays {
         int[] intArray = {1, 2, 3, 4, 5}; // An array of integers
         String[] names = {"John", "Adam", "Steve"}; // An array of strings
 
+        int[] blankArray = new int[5]; // inits an empty array of 5 length, all set to 0
+
         System.out.println(intArray[0]); // 1
         System.out.println(intArray[1]); // 2
 
